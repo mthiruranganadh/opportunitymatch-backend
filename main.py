@@ -26,6 +26,8 @@ app.add_middleware(
         "http://127.0.0.1:3001",
         "https://opportunitymatch-frontend-mthiruranganadh.vercel.app/",
         "https://opportunitymatch-frontend-mthiruranganadh.vercel.app",
+        "https://opportunitymatch-frontend.vercel.app/",
+        "https://opportunitymatch-frontend.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
