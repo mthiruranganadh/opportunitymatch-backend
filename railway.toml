@@ -1,4 +1,0 @@
-[build]
-builder = "RAILPACK"
-buildCommand = "pip install -r requirements.txt"
-
